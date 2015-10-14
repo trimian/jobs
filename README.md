@@ -1,6 +1,6 @@
 # How to apply?
 
-Send an email to jobs@trimian.com. It will greatly help your chances if you include not only your resume but links to interesting things you're done. Did you wire your whole dorm because the wireless sucked? Did you run a bitcoin mining rig on all your friends computers?
+Send an email to jobs@trimian.com. It will greatly help your chances if you include not only your resume but links to interesting things you've done. Did you wire your whole dorm because the wireless sucked? Did you run a bitcoin mining rig on all your friends computers?
 
 ## Internships
 
@@ -16,7 +16,6 @@ I'd love to get an internship at Trimian next summer. Here are my various accoun
 * Project Euler - https://projecteuler.net/progress=ptarjan
 
 Thanks!
-Paul
 
 # Positions
 
